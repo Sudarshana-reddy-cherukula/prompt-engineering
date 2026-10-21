@@ -1,0 +1,18 @@
+CLIMATE CHANGE KNOWLEDGE BASE
+=============================
+
+Document 1: Sea-Level Rise
+--------------------------
+Sea level rises primarily because ocean water expands as it warms and because melting land-based glaciers and ice sheets add water to the oceans. Thermal expansion and melting land ice are major contributors to global mean sea-level rise.
+
+Document 2: Renewable Energy
+----------------------------
+Renewable energy sources include solar, wind, hydropower, and geothermal energy. These sources generally produce electricity with lower lifecycle greenhouse gas emissions than fossil-fuel power generation. Replacing fossil fuels with low-emission renewable electricity can reduce greenhouse gas emissions.
+
+Document 3: Climate Change and Extreme Weather
+----------------------------------------------
+Climate change can increase the risk of some extreme weather events. Human-caused warming increases the frequency and intensity of heatwaves. It also increases heavy precipitation in many regions. Changes in drought risk vary by region. Individual weather events have multiple contributing factors.
+
+Notes
+-----
+This is a small, simulated knowledge base created for the Week-16 prompt evaluation experiment. It is intended for educational testing and is not a comprehensive climate science reference.

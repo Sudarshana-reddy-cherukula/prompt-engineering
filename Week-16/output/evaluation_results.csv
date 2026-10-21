@@ -1,0 +1,16 @@
+﻿question_id,question,ground_truth,answer_a,answer_b,faithfulness_a,faithfulness_b,relevancy_a,relevancy_b
+Q1,What causes sea level rise?,Sea level rises because warming expands ocean water and melting land-based glaciers and ice sheets add water to the oceans.,Sea level rise is primarily caused by two factors: the expansion of ocean water as it warms (thermal expansion) and the addition of water to the oceans from melting land-based glaciers and ice sheets.,Sea level rise is primarily caused by ocean water expanding as it warms and by melting land-based glaciers and ice sheets adding water to the oceans.,0.818,0.833,0.729,0.814
+Q2,How do renewable energy sources help fight climate change?,Renewable energy can reduce greenhouse gas emissions by replacing fossil-fuel electricity generation.,"Renewable energy sources help fight climate change by producing electricity with lower lifecycle greenhouse gas emissions than fossil-fuel power generation. Consequently, replacing fossil fuels with low-emission renewable electricity reduces overall greenhouse gas emissions.",Renewable energy sources help fight climate change by producing electricity with lower lifecycle greenhouse gas emissions than fossil-fuel power generation. Replacing fossil fuels with these low-emission renewable sources can reduce overall greenhouse gas emissions.,0.742,0.806,0.829,0.829
+Q3,How does climate change affect extreme weather?,"Human-caused warming increases heatwave frequency and intensity and increases heavy precipitation in many regions, while some impacts vary by region.","Based on the provided context, climate change affects extreme weather in the following ways:
+
+*   It increases the risk of some extreme weather events.
+*   Human-caused warming increases the frequency and intensity of heatwaves.
+*   It increases heavy precipitation in many regions.
+*   Changes in drought risk vary by region.
+*   Individual weather events have multiple contributing factors.","Based on the provided context, climate change affects extreme weather in the following ways:
+
+*   It increases the risk of some extreme weather events.
+*   Human-caused warming increases the frequency and intensity of heatwaves.
+*   It increases heavy precipitation in many regions.
+*   Changes in drought risk vary by region.
+*   Individual weather events have multiple contributing factors.",0.842,0.842,0.92,0.92
