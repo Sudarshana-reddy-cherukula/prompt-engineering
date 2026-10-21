@@ -1,0 +1,53 @@
+{
+    "merchant_name": "CORNER CAFE",
+    "receipt_date": "18/09/2026",
+    "currency": null,
+    "items": [
+        {
+            "description": "Masala chai",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": 80.0
+        },
+        {
+            "description": "Filter coffee",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": 55.0
+        },
+        {
+            "description": "Veg sandwich",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": 180.0
+        },
+        {
+            "description": "Banana bread slice",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": 65.0
+        }
+    ],
+    "subtotal": 380.0,
+    "tax": 18.1,
+    "discount": 0.0,
+    "total": 380.0,
+    "payment_method": "card",
+    "validation": {
+        "required_fields_present": true,
+        "items_structure_valid": true,
+        "arithmetic_check": {
+            "performed": true,
+            "passed": false,
+            "expected_total": "398.1",
+            "reported_total": "380.0",
+            "message": "Reported total differs from subtotal + tax - discount."
+        },
+        "note": "AI-extracted values may be inaccurate. Compare them with the original receipt."
+    },
+    "metadata": {
+        "model": "qwen/qwen3.8-27b",
+        "input_image": "data\\receipt.jpg",
+        "extraction_method": "Groq multimodal vision"
+    }
+}
